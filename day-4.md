@@ -26,6 +26,6 @@ My favorite part was building and testing the prototype water rocket. It was exc
 
 If I redesigned the rocket, I would test one variable at a time—such as water volume, fin design, or nose weight—and record the height of every launch. This would help me determine which change improved the design.
 
-[View the featured water-rocket project →](https://github.com/reyansh-labs/nc-state-summer-camp-2026/blob/main/project/water.rocket)
+[View the featured water-rocket project →](https://github.com/reyansh-labs/nc-state-summer-camp-2026/blob/main/water_rocket.md)
 
 [← Back to the main journal](README.md)
