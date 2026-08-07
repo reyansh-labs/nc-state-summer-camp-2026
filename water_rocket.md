@@ -118,7 +118,7 @@ I also learned how concepts from physics can directly affect the performance of 
 |<img width="699" height="1070" alt="better one" src="https://github.com/user-attachments/assets/66a83a79-82d4-4c8a-8a91-a370f5bbb0de" />| 
 
 #The following is the launch of the water rocket,
-please click "view raw" - [https://github.com/user-attachments/assets/f804e699-b0ee-4ae8-afd6-a29c8036bcc7.mp4](https://github.com/reyansh-labs/nc-state-summer-camp-2026/blob/main/rocketlaund.mp4)
+please click "view raw" - https://github.com/reyansh-labs/nc-state-summer-camp-2026/blob/main/rocketlaunch.mp4
 
 ---
 
