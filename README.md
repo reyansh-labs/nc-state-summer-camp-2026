@@ -1,45 +1,62 @@
-# 🧠 NC State Summer Camp 2026
+# NC State Summer Camp 2026 – STEM Learning Journal
 
-Welcome to my **NC State Summer Camp 2026** journal! This repository documents my experiences, projects, and what I learned during five exciting days at North Carolina State University. Throughout the week, I explored topics such as **artificial intelligence, biotechnology, genetics, environmental science, engineering, and space exploration** through hands-on activities, presentations, and team projects.
+Welcome to my five-day STEM learning journal from a 2026 summer camp at North Carolina State University in Raleigh, North Carolina.
 
-## 📚 About the Camp
+During the week, I explored **artificial intelligence, biotechnology, genetics, environmental science, biomanufacturing, engineering, and space exploration** through hands-on activities, presentations, and team projects.
 
-The camp introduced students to a variety of STEM fields while emphasizing responsible innovation, teamwork, and problem-solving. Each day included interactive lessons, laboratory activities, engineering challenges, and opportunities to learn from NC State faculty and industry professionals.
+> **Portfolio note:** This is my personal student learning journal. It is not an official NC State University website or repository.
 
-## 📅 Daily Journal
+## Featured Engineering Project
 
-| Day | Topic | Link |
-|------|-------|------|
-| Day 1 | AI Ethics & DNA Exploration | [Day1.md](Day1.md) |
-| Day 2 | Biotechnology & Water Quality | [Day2.md](Day2.md) |
-| Day 3 | Biomanufacturing & AI in Industry | [Day3.md](Day3.md) |
-| Day 4 | Space Flight & AI | [Day4.md](Day4.md) |
-| Day 5 | Rocket Competition & Conservation Expo | [Day5.md](Day5.md) |
+### [Water-Rocket Engineering Challenge](projects/water-rocket/README.md)
 
-## 🔬 Skills & Topics I Explored
+I designed, built, and launched a water rocket while learning about thrust, velocity, energy, balance, and stability. My rocket reached a measured height of **77 feet** in the final launch challenge.
 
-- 🤖 Artificial Intelligence (AI)
-- 🧬 DNA Extraction and Genetics
-- 🌽 Agricultural Biotechnology
-- 💧 Water Quality Testing
-- 🏭 Biomanufacturing
-- 🚀 Space Flight and Rocket Engineering
-- 🌎 Environmental Conservation
-- 🤝 Teamwork and Scientific Communication
+The project page documents the objective, materials, design decisions, engineering process, physics connections, final result, and ideas for future testing.
 
-## 🎯 My Favorite Experiences
+## Daily Journal
 
-Some of my favorite moments included:
-- Extracting and analyzing DNA in a laboratory setting.
-- Visiting NC State's biotechnology facilities.
-- Building and launching a water rocket that reached **77 feet**.
-- Creating an AI-assisted conservation project about endangered sea turtles and giant pandas.
-- Presenting my team's project during the final Expo and Gallery Walk.
+| Day | Topic | What I Explored |
+| --- | --- | --- |
+| [Day 1](day-1.md) | AI Ethics & DNA Exploration | Responsible AI, DNA extraction, elephant genetics, and conservation |
+| [Day 2](day-2.md) | Biotechnology & Water Quality | Agricultural biotechnology, corn genetics, pH, and turbidity |
+| [Day 3](day-3.md) | Biomanufacturing & AI in Industry | BTEC, biotechnology manufacturing, energy efficiency, and industrial AI |
+| [Day 4](day-4.md) | Space Flight & Water-Rocket Engineering | Rocket physics, design, construction, AI, and space exploration |
+| [Day 5](day-5.md) | Rocket Competition & Conservation Expo | A 77-foot rocket launch, conservation planning, teamwork, and presentation |
 
-## 💡 What I Gained
+## Engineering Design Process
 
-By the end of the camp, I had a much better understanding of how STEM fields work together to solve real-world problems. I learned how artificial intelligence can be used responsibly, how biotechnology improves agriculture and medicine, how engineers apply physics to rocket design, and how teamwork and communication are essential for successful scientific projects.
+The water-rocket challenge helped me practice a repeatable engineering process:
 
----
+1. **Ask** – Define the problem and project goal.
+2. **Imagine** – Consider possible designs and the physics involved.
+3. **Plan** – Select materials and decide how to arrange them.
+4. **Build** – Construct a prototype.
+5. **Test** – Launch it and observe the result.
+6. **Improve** – Identify variables for the next design.
 
-**Thank you for visiting my repository!** I hope you enjoy reading about my experience at NC State Summer Camp 2026.
+## Skills & Topics I Explored
+
+- Responsible use of artificial intelligence
+- DNA extraction and genetics
+- Agricultural biotechnology
+- Water-quality testing
+- Biomanufacturing
+- Rocket design and physics
+- Environmental conservation
+- Teamwork and scientific communication
+- Presenting a project to an audience
+
+## Favorite Experiences
+
+- Extracting and analyzing DNA in a laboratory activity
+- Visiting NC State biotechnology facilities
+- Building and launching a water rocket that reached **77 feet**
+- Creating an AI-assisted conservation project about sea turtles and giant pandas
+- Presenting my team's project during the final Expo and gallery walk
+
+## What I Gained
+
+The camp helped me understand how different STEM fields work together to solve real-world problems. I learned that successful projects require more than a final result: they also require careful observation, testing, responsible use of technology, teamwork, and clear communication.
+
+My biggest takeaway was that engineering is a process of building, testing, learning, and improving.
