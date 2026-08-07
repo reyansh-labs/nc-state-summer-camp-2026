@@ -53,8 +53,4 @@ If I built a second version, I would change only one variable at a time and reco
 
 A controlled test would help show which design change caused an improvement.
 
-## Evidence
-
-Project photographs, sketches, and test data can be added here if they are available and approved for sharing.
-
 [← Back to the main journal](../../README.md)
