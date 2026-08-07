@@ -4,7 +4,6 @@ Welcome to my five-day STEM learning journal from a 2026 summer camp at North Ca
 
 During the week, I explored **artificial intelligence, biotechnology, genetics, environmental science, biomanufacturing, engineering, and space exploration** through hands-on activities, presentations, and team projects.
 
-> **Portfolio note:** This is my personal student learning journal. It is not an official NC State University website or repository.
 
 ## Featured Engineering Project
 
