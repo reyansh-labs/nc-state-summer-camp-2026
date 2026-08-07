@@ -4,7 +4,7 @@
 
 - Competed in the water-rocket launch challenge; my rocket reached **77 feet**.
 - Worked with my group to create a final Expo project.
-- Developed an animal-conservation plan focused on sea turtles and giant pandas.
+- My group developed an animal-conservation plan focused on sea turtles and giant pandas.
 - Used AI to support research, organize ideas, and improve the presentation.
 - Explained how AI assisted the project and why it should be used responsibly.
 - Presented the project during the final gallery walk.
