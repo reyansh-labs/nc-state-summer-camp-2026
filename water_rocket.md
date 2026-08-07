@@ -113,9 +113,11 @@ I also learned how concepts from physics can directly affect the performance of 
 
 *Add photos of the rocket, construction process, and launch here.*
 
-| Design       | Launch       | Result       |
-| ------------ | ------------ | ------------ |
-| 📷 Add photo | 📷 Add photo | 📷 Add photo |
+|   Design     |   Result     |
+| ------------ | ------------ |
+| <img width="1170" height="1560" alt="IMG_3050" src="https://github.com/user-attachments/assets/961a03d8-7ca9-4a23-8515-7d6e23f643c9" /> | 
+
+https://github.com/user-attachments/assets/f804e699-b0ee-4ae8-afd6-a29c8036bcc7|
 
 ---
 
