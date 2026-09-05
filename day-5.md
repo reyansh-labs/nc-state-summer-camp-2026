@@ -27,6 +27,6 @@ My favorite part was presenting the conservation project during the gallery walk
 
 The camp showed me that many STEM fields are connected. The week combined AI, biology, environmental science, physics, engineering, teamwork, and communication. My biggest takeaway was that a strong solution requires both technical knowledge and responsible decision-making.
 
-[View the featured water-rocket project →](projects/water-rocket/README.md)
+[View the featured water-rocket project →](water_rocket.md)
 
 [← Back to the main journal](README.md)

@@ -7,7 +7,7 @@ During the week, I explored **artificial intelligence, biotechnology, genetics, 
 
 ## Featured Engineering Project
 
-### [Water-Rocket Engineering Challenge](projects/water-rocket/README.md)
+### [Water-Rocket Engineering Challenge](water_rocket.md)
 
 I designed, built, and launched a water rocket while learning about thrust, velocity, energy, balance, and stability. My rocket reached a measured height of **77 feet** in the final launch challenge.
 
@@ -59,3 +59,7 @@ The water-rocket challenge helped me practice a repeatable engineering process:
 The camp helped me understand how different STEM fields work together to solve real-world problems. I learned that successful projects require more than a final result: they also require careful observation, testing, responsible use of technology, teamwork, and clear communication.
 
 My biggest takeaway was that engineering is a process of building, testing, learning, and improving.
+
+## Related Engineering Work
+
+This journal documents one early hands-on STEM experience. See my [Autonomous Navigation System](https://github.com/reyansh-labs/autonomous-navigation-system) for another engineering and programming project.
